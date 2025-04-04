@@ -57,5 +57,12 @@ https://drive.google.com/drive/folders/18R_-TVD0jNkAKGhISgW84VfFAXyn_HTe?usp=dri
 ### Clone the repository
 
 ```bash
+# Clone the repository
 git clone https://github.com/abhinai2244/ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50.git
-cd accident-detection-system
+
+# Navigate to the project directory
+cd ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50
+
+# Install dependencies
+pip install -r requirements.txt
+
