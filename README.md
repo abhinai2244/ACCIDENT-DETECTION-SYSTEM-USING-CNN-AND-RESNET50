@@ -49,5 +49,5 @@ This project is a deep learning-based **Accident Detection System** designed to 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/accident-detection-system.git
+git clone https://github.com/abhinai2244/ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50.git
 cd accident-detection-system
