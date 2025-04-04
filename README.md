@@ -43,11 +43,7 @@ This system aims to detect road accidents from video feeds (e.g., CCTV, dashcams
 
 ---
 
-## 📂 Repository Structure
-
-```
 ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50/
-│
 ├── accident-classification-pre.ipynb       # Notebook for model training
 ├── accident-classificationtry.ipynb        # Alternate training/experimentation
 ├── accident-classification-2pre.ipynb      # Notebook with preprocessing or final version
@@ -57,9 +53,6 @@ ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50/
 ├── training_history.png                    # Accuracy/loss visualization
 ├── requirements.txt                        # Dependencies
 └── README.md                               # You're here!
-```
-
----
 
 ## 🚀 Getting Started
 
