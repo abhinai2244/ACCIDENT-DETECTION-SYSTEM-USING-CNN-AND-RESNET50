@@ -72,6 +72,8 @@ cd ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50
 
 ### 2. Install dependencies
 
+FOR DATASET USE THIS LINK TO DOWNLOAD : https://drive.google.com/drive/folders/18R_-TVD0jNkAKGhISgW84VfFAXyn_HTe?usp=drive_link
+
 Create a virtual environment (optional but recommended):
 
 ```bash
