@@ -13,6 +13,14 @@ This project is a deep learning-based **Accident Detection System** designed to 
 - Integrate **ResNet50** for deep residual learning and accurate classification.
 - Enable near real-time predictions for safety monitoring systems.
 
+
+---
+
+## FIND THE DATA SET IN THIS GOOGLE DRIVE 
+
+https://drive.google.com/drive/folders/18R_-TVD0jNkAKGhISgW84VfFAXyn_HTe?usp=drive_link
+
+---
 ---
 
 ## 🧰 Technologies & Tools
