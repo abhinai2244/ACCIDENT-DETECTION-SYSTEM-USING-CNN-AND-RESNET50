@@ -1,0 +1,6 @@
+
+tensorflow==2.x.x
+keras==2.x.x
+opencv-python
+numpy
+matplotlib
