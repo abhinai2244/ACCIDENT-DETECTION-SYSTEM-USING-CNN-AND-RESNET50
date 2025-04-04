@@ -159,11 +159,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - Publicly available accident and surveillance datasets
 ```
 
----
-
-Would you like me to:
-- Add a sample `requirements.txt` file?
-- Help you generate a model `.h5` and upload trained weights?
-- Assist with Streamlit interface for demo?
-
-Let me know and I can help you take it even further!
